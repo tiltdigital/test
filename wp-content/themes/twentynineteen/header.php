@@ -20,6 +20,8 @@
 </head>
 
 <body <?php body_class(); ?>>
+
+Hi there!
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentynineteen' ); ?></a>
 
